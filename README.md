@@ -6,13 +6,14 @@ Para desenvolvê-lo, utilizei várias ferramentas e tecnologias, como:
 • Kotlin 
 
 • Activity para hospedagem de telas:
+
 • ViewGroup com:
 - LinearLayout
-- 
+
 • Components de UI:
  - TextView
  - EditText
-- ImageView
+- ScrollView
  - Button
 
 • ViewBinding para recuperar components de UI:
